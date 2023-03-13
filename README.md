@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hey there! 
 
-<!--
-**samitmohan/samitmohan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- How to reach me: email me on samitmohan@gmail.com
+- LinkedIn : www.linkedin.com/in/samitmohan
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samitmohan&label=Profile%20views&color=orange&style=for-the-badge" alt="samitmohan" /> </p> -->
+<!-- ![Github stats](https://github-readme-stats.vercel.app/api?username=samitmohan&count_private=true&show_icons=true&theme=dark) -->
+
+<!-- [![Leetcode Stats](https://leetcard.jacoblin.cool/samitmohan)](https://leetcode.com/samitmohan) -->
+![](https://leetcard.jacoblin.cool/samitmohan?ext=heatmap) 
+
+
+<!-- ### GitHub stats
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=samitmohan&&theme=dark" alt="samitmohan" /></p> -->
