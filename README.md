@@ -1,7 +1,7 @@
 ### Hey there! 
 
 - How to reach me: email me on samitmohan@gmail.com
-- LinkedIn : www.linkedin.com/in/samitmohan
+- LinkedIn : www.linkedin.com/in/samit-mohan
 
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=samitmohan&label=Profile%20views&color=orange&style=for-the-badge" alt="samitmohan" /> </p> -->
